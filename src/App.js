@@ -9,7 +9,7 @@ class App extends Component {
         <header className="App-header">
           <img src={logo} className="App-logo" alt="logo" />
           <p>
-            I <code>stink</code> and save to reload.
+            I <code> was changed</code> and save to reload.
           </p>
           <a
             className="App-link"
